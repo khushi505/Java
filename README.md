@@ -12,4 +12,4 @@ Welcome to my 🚦**Java Practice Repository**. This repository will contain a c
 
 #### 3. Run the code
 
-`javac FileName.java`
+`java FileName`
