@@ -14,3 +14,9 @@ class Variable {
         obj.method();
     }
 }
+
+
+// Output - 
+// Local variable: 90
+// Instance variable: 50
+// Static variable: 100
