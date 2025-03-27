@@ -5,7 +5,7 @@ class Program3 {
 }
 
 // Main class demonstrating initialization through reference
-class InitializationThroughReference {
+class InitializationThroughReference{
     public static void main(String[] args) {
 
         // Creating an object of Student class

@@ -15,11 +15,11 @@ class Calculation {
 public class MethodCallDemo {
     public static void main(String[] args) {
 
-        // ✅ Calling method through a reference
+        // Calling method through a reference
         Calculation c = new Calculation();   // Creating object with reference variable
         c.fact(5);                            // Calling the fact() method with reference
 
-        // ✅ Calling method through an anonymous object
+        // Calling method through an anonymous object
         new Calculation().fact(5);            // Calling the fact() method with anonymous object
     }
 }

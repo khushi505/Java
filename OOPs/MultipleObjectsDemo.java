@@ -20,7 +20,7 @@ class Rectangle {
 public class MultipleObjectsDemo {
     public static void main(String[] args) {
 
-        // ✅ Creating multiple objects using one type (Rectangle)
+        // Creating multiple objects using one type (Rectangle)
         Rectangle r1 = new Rectangle(), r2 = new Rectangle();
 
         // Initializing objects with dimensions
