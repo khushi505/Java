@@ -1,5 +1,5 @@
 // Defining the Student class with fields
-class Student2 {
+class StudentMainOutside {
     int id;          // Instance variable to store student ID
     String name;     // Instance variable to store student name
 }
@@ -8,7 +8,7 @@ class Student2 {
 class TestStudent1 {
     public static void main(String[] args) {
         // Creating an object (instance) of the Student class
-        Student2 s1 = new Student2();
+        StudentMainOutside s1 = new StudentMainOutside();
 
         // Printing default values of the object fields
         System.out.println("Student ID: " + s1.id);     // Default value: 0

@@ -1,4 +1,4 @@
-class Student1 {
+class StudentMainInside {
     // Defining fields
     int id;          // Field or instance variable
     String name;     // Field or instance variable
@@ -7,7 +7,7 @@ class Student1 {
     public static void main(String[] args) {
 
         // Creating an object (instance) of the Student class
-        Student1 s1 = new Student1();   // Object created using the 'new' keyword
+        StudentMainInside s1 = new StudentMainInside();   // Object created using the 'new' keyword
 
         // Printing default values of the object fields
         System.out.println("Student ID: " + s1.id);     // Default value: 0
